@@ -1,3 +1,3 @@
 # first-repo
 
-This repo is about the git project.
+It's my third commit.
